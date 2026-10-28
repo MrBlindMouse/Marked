@@ -1,0 +1,39 @@
+# Build artifacts
+/build/
+**/build/
+
+# Gradle
+.gradle/
+**/.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# IDE
+*.iml
+.idea/
+**/.idea/
+
+# Kotlin
+.kotlin/
+
+# OS files
+.DS_Store
+
+# Crash logs
+*.log
+
+# External native build
+.externalNativeBuild/
+.cxx/
+
+# Android Studio captures
+captures/
+
+# Keystore / signing
+*.jks
+*.keystore
+
+# Google services
+google-services.json

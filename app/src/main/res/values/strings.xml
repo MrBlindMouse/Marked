@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marked</string>
+    <!-- TODO(johan): replace with the real Bitcoin donation wallet address before shipping. -->
+    <string name="donate_bitcoin_address">YOUR_BTC_WALLET_ADDRESS</string>
+    <!-- TODO(johan): replace with the real Play Store listing URL before shipping. -->
+    <string name="play_store_url">https://play.google.com/store/apps/details?id=com.bmdstudios.marked</string>
+</resources>
